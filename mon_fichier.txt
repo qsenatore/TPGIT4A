@@ -2,3 +2,5 @@ bonjour, je modifie le fichier
 
 Je vais créer un conflit ahah
 
+j'ajoute encore une nouvelle ligne
+
