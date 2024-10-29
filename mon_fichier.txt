@@ -1,3 +1,7 @@
 bonjour, je modifie le fichier
 
-je modifie encore depuis le compte bis.
+<<<<<<< HEAD
+
+=======
+Je vais créer un conflit haha
+>>>>>>> e1418490e18c1acaf3ff75369b6e241e26c4e9d6
